@@ -1,0 +1,11 @@
+body {
+  background-color: #fff;
+}
+
+.title {
+    margin-top: 3%;           
+}
+
+.title div {
+    padding: 0;
+}
